@@ -1,0 +1,8 @@
+{
+  "name": "NTPU Eats+",
+  "description": "An integrated campus application for food rescue, sustainability tracking, and student services to reduce food waste and enhance campus life.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
